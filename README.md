@@ -65,7 +65,7 @@
 <div>
 <img align="left" style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravin69&layout=compact&theme=nightowl" alt=Pravin69 />
 &nbsp;
-<img style="height: auto; width: 55%;" src="https://github-readme-stats.vercel.app/api?username=Pravin69&show_icons=true&locale=en&theme=nightowl" alt="Pravin69" />
+<img style="height: auto; width: 55%;" src="https://github-readme-stats-psi-ten-50.vercel.app/api?username=Pravin69&show_icons=true&locale=en&theme=nightowl" alt="Pravin69" />
 </div>
 
 <br/>
