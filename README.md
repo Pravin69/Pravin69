@@ -63,7 +63,7 @@
 <h3 align="left">Github Statistics</h3>
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=Pravin69&theme=discord&column=8&margin-w=10&margin-h=10" alt="logo" /></p>
 <div>
-<img align="left" style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravin69&layout=compact&theme=nightowl" alt=Pravin69 />
+<img align="left" style="height: auto; width: 40%;" src="https://github-readme-stats-psi-ten-50.vercel.app/api/top-langs/?username=Pravin69&layout=compact&theme=nightowl" alt=Pravin69 />
 &nbsp;
 <img style="height: auto; width: 55%;" src="https://github-readme-stats-psi-ten-50.vercel.app/api?username=Pravin69&show_icons=true&locale=en&theme=nightowl" alt="Pravin69" />
 </div>
