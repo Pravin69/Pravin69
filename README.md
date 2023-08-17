@@ -25,14 +25,23 @@
 - ⚡ Fun fact: I'm a passionate hiking enthusiast.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> :</h3>
-<div> <a href="https://www.linkedin.com/in/pravin-thakur-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> 
+<a href="https://www.linkedin.com/in/pravin-thakur-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Pravin69" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:p.thakur.133.ram@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">Coding Profiles  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>:</h3>
 <p align="left">
-<a href="https://codesandbox.com/pravin69" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codesandbox.svg" alt="pravin69" height="30" width="40" /></a><a href="https://linkedin.com/in/pravin-thakur-" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="pravin-thakur-" height="30" width="40" /></a><a href="https://www.hackerrank.com/@p_thakur_133_ram" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="@p_thakur_133_ram" height="30" width="40" /></a><a href="https://www.leetcode.com/pravin69" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="pravin69" height="30" width="40" /></a><a href="https://stackoverflow.com/users/pravin-thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="pravin-thakur" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/pthakur133ram" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="pthakur133ram" height="30" width="40" /></a></p>
+<a href="https://codesandbox.com/pravin69" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codesandbox.svg" alt="pravin69" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pravin-thakur-" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="pravin-thakur-" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@p_thakur_133_ram" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="@p_thakur_133_ram" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pravin69" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="pravin69" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/pravin-thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="pravin-thakur" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/pthakur133ram" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="pthakur133ram" height="30" width="40" /></a>
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -52,15 +61,15 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">Github Statistics</h3>
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pravin69&theme=discord" alt="Pravin69" /></a> </p>
-
-<div align="center">
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=Pravin69&theme=discord&column=8&margin-w=10&margin-h=10" alt="logo" /></p>
+<div>
 <img align="left" style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravin69&layout=compact&theme=nightowl" alt=Pravin69 />
-&nbsp;<img style="height: auto; width: 55%;" src="https://github-readme-stats.vercel.app/api?username=Pravin69&show_icons=true&locale=en&theme=nightowl" alt="Pravin69" />
+&nbsp;
+<img style="height: auto; width: 55%;" src="https://github-readme-stats.vercel.app/api?username=Pravin69&show_icons=true&locale=en&theme=nightowl" alt="Pravin69" />
 </div>
-
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -70,8 +79,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pravin69&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pravin69&theme=nightowl" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pravin69&theme=nightowl" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pravin69&theme=nightowl" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pravin69&theme=nightowl" height="180em" />
 </div>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
