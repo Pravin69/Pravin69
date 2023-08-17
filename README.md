@@ -18,7 +18,7 @@
   
 - 🌱 Currently learning responsive design and web optimization.
 
-- 💬 Ask me about crafting engaging user interfaces.
+- 💬 Ask me about Javascript, React/Redux C++,Python
 
 - 📫 How to reach me **p.thakur.133.ram@gmail.com**
 
