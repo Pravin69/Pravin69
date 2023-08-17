@@ -76,9 +76,9 @@
 <div align="center">
 <h3 align="left">Stars</h3>
 <a href="https://github.com/Pravin69">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pravin69&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pravin69&theme=nightowl" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pravin69&theme=nightowl" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pravin69&theme=2077" style="height: auto; width: 30%;" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pravin69&theme=nightowl" style="height: auto; width: 30%;" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pravin69&theme=nightowl" style="height: auto; width: 30%;" />
 </div>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
